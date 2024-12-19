@@ -1,0 +1,14 @@
+{
+    "name": "com.reza.orderedaction",
+    "rootNamespace": "Reza.OrderedActions",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
